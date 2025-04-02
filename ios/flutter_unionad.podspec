@@ -18,7 +18,7 @@ A new flutter plugin project.
   s.dependency 'Flutter'
   s.platform = :ios, '9.0'
   s.dependency 'Ads-CN-Beta/BUAdSDK','6.6.0.0'
-  s.dependency 'Ads-CN-Beta/CSJMediation','6.7.0.3'
+  s.dependency 'Ads-CN-Beta/CSJMediation','6.6.0.0'
 # 引入融合Adapters(推荐使用自动拉取adapter工具，此处无需引入)
 # pod 'GMGdtAdapter-Beta', '4.15.10.1'
 # pod 'GMBaiduAdapter-Beta', '5.370.2'
