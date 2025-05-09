@@ -16,7 +16,7 @@ A new flutter plugin project.
   s.source_files = 'Classes/**/*'
   s.static_framework = true
   s.dependency 'Flutter'
-  s.platform = :ios, '9.0'
+  s.platform = :ios, '12.0'
   s.dependency 'Ads-CN-Beta/BUAdSDK','6.9.0.1'
   s.dependency 'Ads-CN-Beta/CSJMediation','6.9.0.1'
 # 引入融合Adapters(推荐使用自动拉取adapter工具，此处无需引入)
